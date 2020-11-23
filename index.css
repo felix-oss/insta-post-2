@@ -1,0 +1,58 @@
+body{
+    background-color: grey;
+    font-family: 'Poppins', sans-serif;
+    font-size: 18px;
+}
+.main-content{
+    background-color: white;
+    width: 601px;
+    height: 820px;
+    margin: auto;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+.options{
+    float: right;
+    max-width: 60px;
+    position: absolute;
+    top: 10;
+    right: 10;
+    padding: 5px 0px 5px 0px;
+}
+.top-text{
+    position: absolute;
+    top: -5;
+    left: 55;
+    display: block;
+    padding: 0 0 0 0;
+}
+p{
+    margin: 0;
+    padding: 15 0 0 0;
+    display: block;
+}
+.post-pic{
+    padding: 30px 0 20px 0;
+    width: 601px;
+    height: 500px;
+
+}
+.profile-pic{
+    padding: 20px 0px 0px 20px;
+}
+.right-icons{
+    position: absolute;
+    top: 590;
+    right: 10;
+    padding:0px 10px 0px 10px
+}
+.left-icons{
+    top: 590;
+    left: 10;
+    padding:0px 10px 0px 10px
+}
+.post-bottom{
+    padding:0px 15px 0px 15px
+}
